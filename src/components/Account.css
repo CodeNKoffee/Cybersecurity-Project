@@ -1,0 +1,76 @@
+@import url(../variables.css);
+
+.dashboard__elements {
+  margin-top: 64px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  align-items: center;
+  gap: 50px;
+}
+
+.dashboard__element {
+  border: 1px solid var(--tesla-dark);
+  border-radius: 8px;
+  width: 350px;
+}
+
+.dashboard__element--img--wrapper,
+.dashboard__element--img {
+  border-top-right-radius:  6px;
+  border-top-left-radius:  6px;
+  width: 100%;
+}
+
+.dashboard__element--info {
+  padding: 16px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 8px;
+}
+
+.dashboard__element--title {
+  font-weight: 500;
+}
+
+.dashboard__element--para {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.profile__info {
+  margin-top: 64px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  width: 50%;
+}
+
+.profile__img--wrapper {
+  width: 160px;
+  margin-bottom: 40px;
+}
+
+.name__field {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.timezone {
+  border-radius: 24px;
+  background-color: var(--cyber-blue);
+  color: var(--cyber-white);
+  text-align: center;
+  padding: 24px 48px;
+}
+
+
+

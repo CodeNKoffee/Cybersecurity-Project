@@ -1,0 +1,54 @@
+@import url(../variables.css);
+
+.account__nav {
+  background-color: var(--cyber-dark);
+}
+
+.account__nav--link,
+.account__nav--link--hidden {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 8px;
+  color: var(--cyber-white);
+  transition: all 500ms ease;
+}
+
+.account__nav--list {
+  margin-left: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.account__nav--link:hover {
+  background-color: var(--cyber-grey);
+  border-radius: 8px;
+}
+
+.account__nav--menu--btn {
+  z-index: 3;
+  width: 56px;
+  transition: all 500ms ease;
+}
+
+.account__nav--menu--btn:hover {
+  cursor: pointer;
+}
+
+.account__nav--link--hidden {
+  color: transparent;
+  transition: all 100ms ease;
+}
+
+.nav__search {
+  background-color: var(--cyber-white);
+  width: 500px;
+  font-size: 16px;
+  border: 2px solid var(---cyber-blue);
+  border-radius: 8px;
+  margin: 24px 16px;
+  padding: 8px 16px;
+  outline: none;
+  transition: all 300ms ease;
+}
