@@ -2,6 +2,8 @@
 
 This project is part of a frontend interview process for [Company Name]. It is a [brief description of the project].
 
+
+![Preview](./src/assets/Screenshot%202023-05-05%20at%2012.13.35%20AM.png)
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
