@@ -15,7 +15,10 @@ This project is part of a frontend interview process for [Company Name]. It is a
 ## Technologies Used
 
 - [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
 - [Firebase](https://firebase.google.com/)
+- JSX
+- CSS
 
 ## Installation and Setup
 
