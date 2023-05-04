@@ -17,8 +17,9 @@ This project is part of a frontend interview process for [Company Name]. It is a
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [Firebase](https://firebase.google.com/)
-- JSX
-- CSS
+- [JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [Figma](https://figma.com/)
 
 ## Installation and Setup
 
